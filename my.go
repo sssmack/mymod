@@ -1,4 +1,4 @@
-package mymod
+package sssmack
 
 import "fmt"
 
