@@ -1,4 +1,4 @@
-package sssmack
+package whatever
 
 import "fmt"
 
